@@ -1,16 +1,18 @@
 # pray_times
 
-A new Flutter project.
+A Flutter project to get pray times based on mobile geolocation.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Using Pray Times API and GeoLocator packages.
 
-A few resources to get you started if this is your first Flutter project:
+The resources used in this project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Pray Times API](https://aladhan.com/prayer-times-api)
+- [GeoLocator Packages](https://pub.dev/packages/geolocator)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For help of how to develop this App, please check my Youtube Channel:
+
+- [Using GeoLocator to get Pray Times | تطبيق مواقيت الصلاة باستخدام GPS Location](https://youtu.be/wxp6EjOfldw)
+- [Pray Times App using REST API & FutuerBuilder-Flutter | تطبيق مواقيت الصلاة باستخدم REST API](https://youtu.be/-53syBuLAdY)
+- [My Youtube Channel](https://www.youtube.com/channel/UC02GJfuXrmoe9D1_BOARB7w)
